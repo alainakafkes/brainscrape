@@ -7,7 +7,7 @@ Ever wanted to search quotes by keyword and amass them in a organized, streamlin
 Then brainscrape is great for you! Simply run:
 
 ```python
-getQuotes(your_keyword_here)
+getQuotes(your_keyword_here, num_pages_to_search_here)
 ```
 
 ... and a lovely list of (quote, author) tuples will be bestowed upon you for further use.
